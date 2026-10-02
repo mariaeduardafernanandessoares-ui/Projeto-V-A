@@ -1,0 +1,206 @@
+veiculo,data,municipio,eixo,titulo,polaridade,mencoes_pop
+G1 Goiás,"Sat, 21 Jul 2018 15:26:31 -0000",Goiânia,Transporte,"Caminhoneiro morre após bater em carreta e sair da pista na BR-452, em Itumbiara",Crítico,280
+G1 Goiás,"Fri, 20 Jul 2018 08:31:40 -0000",Goiânia,Educação,"Arquitetos dão dicas de como aproveitar ambientes amplos em apartamentos de luxo, em Goiânia",Neutro,130
+G1 Goiás,"Thu, 19 Jul 2018 17:59:34 -0000",Aparecida de Goiânia,Saúde,Funcionário público da Prefeitura de Palmas é preso suspeito de roubo a banco,Crítico,280
+G1 Goiás,"Thu, 19 Jul 2018 15:43:25 -0000",Goiânia,Geral / Outros,"Veja receita de peixe na telha feito com pintado do Rio Araguaia, em Aruanã",Neutro,130
+G1 Goiás,"Wed, 18 Jul 2018 18:08:20 -0000",Goiânia,Saúde,Ex-chefe diz que Dr. Bumbum se recusava a fazer residência médica,Crítico,280
+G1 Goiás,"Tue, 17 Jul 2018 15:01:33 -0000",Goiânia,Saúde,"Foragido, Dr. Bumbum foi indiciado ao menos 6 vezes pela polícia do DF",Crítico,280
+G1 Goiás,"Tue, 17 Jul 2018 08:33:40 -0000",Goiânia,Saúde,"Empreendimento residencial de alto padrão será construído no Setor Campinas, em Goiânia",Positivo,90
+G1 Goiás,"Mon, 16 Jul 2018 23:03:36 -0000",Anápolis,Transporte,"Ladrão empurra ciclista no meio da BR-060 para roubar bicicleta e vítima é atropelada, em Anápolis",Neutro,130
+G1 Goiás,"Mon, 16 Jul 2018 22:10:01 -0000",Goiânia,Segurança,"Anima compra centro de educação superior em Goiás por R$ 31,25 milhões",Neutro,130
+G1 Goiás,"Mon, 16 Jul 2018 12:43:18 -0000",Goiânia,Segurança,"Suspeito preso em shopping é investigado por assaltos a instituições financeiras no PI, MA e MT",Crítico,280
+G1 Goiás,"Sat, 14 Jul 2018 15:01:28 -0000",Goiânia,Transporte,Acidente com caminhão de empresa terceirizada da Enel mata um funcionário e deixa cinco feridos na GO-237,Crítico,280
+G1 Goiás,"Fri, 13 Jul 2018 23:00:09 -0000",Goiânia,Transporte,Marco Aurélio contraria decisão sobre prisão em 2ª instância ao conceder habeas corpus a ex-braço-direito de Beira-Mar,Positivo,90
+G1 Goiás,"Fri, 13 Jul 2018 21:08:44 -0000",Anápolis,Transporte,"Carreta carregada de milho tomba em pedágio e se arrasta pela pista na BR-060, em Goianápolis; veja vídeo",Crítico,280
+G1 Goiás,"Fri, 13 Jul 2018 19:06:42 -0000",Goiânia,Segurança,Jungmann chama de 'desastre' e 'equívoco criminoso' liberação da cadeia de ex-braço-direito de Fernandinho Beira-Mar,Positivo,90
+G1 Goiás,"Fri, 13 Jul 2018 15:16:32 -0000",Goiânia,Transporte,"Vídeo mostra moto desgovernada invadir calçada, arremessar idoso e atingir empresário em Goiânia",Crítico,280
+G1 Goiás,"Thu, 12 Jul 2018 21:27:06 -0000",Goiânia,Transporte,"Motorista de caminhão perde controle e cai em córrego nas margens da BR-158, em Bom Jardim de Goiás",Crítico,280
+G1 Goiás,"Thu, 12 Jul 2018 16:21:24 -0000",Goiânia,Segurança,Aeronave que saiu da Bolívia com 300 kg de cocaína é apreendida no Tocantins,Crítico,280
+G1 Goiás,"Thu, 12 Jul 2018 15:41:48 -0000",Aparecida de Goiânia,Geral / Outros,"Cozinheira ensina receita de bife rolê com purê de batatas, no Prato do Dia",Neutro,130
+G1 Goiás,"Thu, 12 Jul 2018 11:40:25 -0000",Goiânia,Segurança,Grupo que movimentava R$ 1 milhão por ano com tráfico de drogas é alvo de operação da PF em MT e GO,Crítico,280
+G1 Goiás,"Wed, 11 Jul 2018 18:13:20 -0000",Goiânia,Transporte,"Motorista de carro perde controle, bate em traseira de caminhão parado; acidente deixa uma pessoa morta na GO-080, em Nerópolis",Crítico,280
+G1 Goiás,"Wed, 11 Jul 2018 15:35:21 -0000",Anápolis,Transporte,"Motociclista morre atropelado na BR-414, em Cocalzinho de Goiás",Crítico,280
+G1 Goiás,"Wed, 11 Jul 2018 12:33:10 -0000",Goiânia,Transporte,"Jovem embriagado é preso após bater carro de luxo contra proteção de ponto de ônibus em Goiânia, diz polícia",Crítico,280
+G1 Goiás,"Tue, 10 Jul 2018 16:44:25 -0000",Goiânia,Transporte,"Menino que perdeu a mãe, o pai e os irmãos em acidente na BR-080 segue  internado e ainda não sabe sobre mortes, diz tia",Crítico,280
+G1 Goiás,"Tue, 10 Jul 2018 11:25:16 -0000",Goiânia,Transporte,Suspeito de integrar grupo que roubava e sequestrava caminhoneiros é preso no DF,Crítico,280
+G1 Goiás,"Mon, 09 Jul 2018 22:33:55 -0000",Goiânia,Transporte,"Piloto de MT que está desaparecido há 15 dias foi contratado para levar avião para o Tocantins, diz família",Crítico,280
+G1 Goiás,"Mon, 09 Jul 2018 17:02:08 -0000",Goiânia,Segurança,"Após desarticular quadrilha de hackers, Polícia Civil recupera mais de R$ 700 mil em bitcoins",Crítico,280
+G1 Goiás,"Mon, 09 Jul 2018 14:16:35 -0000",Goiânia,Transporte,"Motorista bebeu antes de acidente que o matou junto com a mulher e dois filhos na BR-080, dizem testemunhas",Crítico,280
+G1 Goiás,"Sun, 08 Jul 2018 13:42:44 -0000",Goiânia,Transporte,"Homem, grávida e três crianças morrem em acidente na BR-080, em Padre Bernardo",Crítico,280
+G1 Goiás,"Sun, 08 Jul 2018 11:35:06 -0000",Goiânia,Transporte,"Goiânia tem 605,3 mil carros e possui a 6ª maior frota do país, aponta estudo",Crítico,280
+G1 Goiás,"Sat, 07 Jul 2018 23:50:00 -0000",Goiânia,Transporte,Motorista morre após ser arremessado de caminhão enquanto trabalhava em obra na GO-453,Crítico,280
+G1 Goiás,"Thu, 07 Jun 2018 19:58:54 -0000",Goiânia,Segurança,PF prende 5 pessoas em MT e SP em operação que investiga contrabando e adulteração de agrotóxicos,Neutro,130
+G1 Goiás,"Fri, 18 May 2018 22:08:17 -0000",Goiânia,Transporte,"Um mês após denunciar roubo de carga na polícia, caminhoneiro é preso no DF com mercadoria",Crítico,280
+G1 Goiás,"Thu, 17 May 2018 10:39:31 -0000",Goiânia,Saúde,Operação de combate à pornografia infantil prende 251 pessoas no país,Crítico,280
+G1 Goiás,"Tue, 15 May 2018 10:59:08 -0000",Goiânia,Transporte,Policial militar de Brasília morre dentro de ônibus após tiroteio com assaltantes,Crítico,280
+G1 Goiás,"Tue, 10 Apr 2018 15:50:08 -0000",Goiânia,Geral / Outros,"Empresário ensina receita de 'tapa de cuadril', picanha que faz sucesso em restaurante de Goiânia",Neutro,130
+G1 Goiás,"Tue, 06 Mar 2018 11:01:13 -0000",Goiânia,Transporte,"Cinco meses após lançamento, emissões de CNH Digital ficam abaixo do esperado pelo Detran-GO",Crítico,280
+G1 Goiás,"Tue, 09 Jan 2018 09:36:04 -0000",Goiânia,Transporte,"Motociclista multado por não usar cinto de segurança luta há 2 anos para cancelar infração, em Jaraguá",Crítico,280
+G1 Goiás,"Sun, 07 Jan 2018 10:36:06 -0000",Aparecida de Goiânia,Segurança,Polícia prende no RJ chefe de facção criminosa em Goiás,Crítico,280
+G1 Goiás,"Tue, 19 Dec 2017 12:26:01 -0000",Goiânia,Transporte,Tabela do IPVA 2018 em Goiás cai mais de 3% e terá descontos de até 60%,Crítico,280
+G1 Goiás,"Fri, 08 Dec 2017 08:41:52 -0000",Anápolis,Transporte,"Jovem é detido após fazer manobra 'Superman' em ciclomotor na BR-153, em Anápolis; veja vídeo",Neutro,130
+G1 Goiás,"Tue, 05 Dec 2017 11:45:30 -0000",Goiânia,Transporte,Detran-GO notifica mais de 900 motoristas para suspensão da CNH,Neutro,130
+G1 Goiás,"Mon, 30 Oct 2017 16:45:44 -0000",Goiânia,Saúde,"Mãe de aluno que atirou contra colegas guardava a arma em local seguro, diz advogada",Crítico,280
+G1 Goiás,"Fri, 27 Oct 2017 18:23:48 -0000",Goiânia,Saúde,MPF apura causas de incêndio que destrói Parque Nacional da Chapada dos Veadeiros,Crítico,280
+G1 Goiás,"Mon, 23 Oct 2017 14:12:37 -0000",Goiânia,Saúde,Estudante baleada dentro de sala de aula deixa UTI e segue tratamento na enfermaria de hospital em Goiânia,Crítico,280
+G1 Goiás,"Wed, 11 Oct 2017 16:23:35 -0000",Goiânia,Transporte,Detran-GO espera emitir 100 mil CNHs Digitais até o fim de 2017,Neutro,130
+G1 Goiás,"Mon, 09 Oct 2017 20:36:38 -0000",Goiânia,Transporte,"CEI aponta prejuízos de R$ 52,8 milhões na SMT e pede indiciamento de 17 pessoas",Crítico,280
+G1 Goiás,"Fri, 06 Oct 2017 11:27:21 -0000",Goiânia,Transporte,Empresário suspeito de matar esposa grávida deixa a prisão em Goiás,Crítico,280
+G1 Goiás,"Mon, 25 Sep 2017 16:00:21 -0000",Goiânia,Geral / Outros,Levantamento contou com mais de 200 jornalistas de todas as redações do G1,Crítico,280
+G1 Goiás,"Thu, 07 Sep 2017 17:48:46 -0000",Aparecida de Goiânia,Política,"Governo decreta situação de emergência na Bacia do Meia Ponte, em Goiânia",Crítico,430
+G1 Goiás,"Tue, 05 Sep 2017 15:00:17 -0000",Goiânia,Transporte,"Presos 14 suspeitos de matar mais de 20 pessoas em disputa por tráfico de drogas, em Goiânia",Crítico,280
+G1 Goiás,"Thu, 24 Aug 2017 16:53:04 -0000",Goiânia,Educação,"Construtora oferece curso de reparos domésticos para mulheres, em Goiânia",Crítico,280
+G1 Goiás,"Mon, 21 Aug 2017 09:14:19 -0000",Goiânia,Geral / Outros,"Em caso raro, vaca dá à luz bezerros gêmeos de sexos diferentes em Goiatuba",Neutro,130
+G1 Goiás,"Thu, 10 Aug 2017 18:31:43 -0000",Goiânia,Transporte,Prefeitura de Goiânia começa a monitorar ambulâncias do Samu em tempo real,Neutro,130
+G1 Goiás,"Tue, 01 Aug 2017 17:47:35 -0300",Goiânia,Política,Formosa torna-se a bola da vez,Neutro,280
+G1 Goiás,"Thu, 27 Jul 2017 16:25:58 -0300",Goiânia,Transporte,"Piloto Consciente, o 1º Passeio Motociclístico de Goiás mobiliza mais de 300 pessoas.",Crítico,280
+G1 Goiás,"Wed, 26 Jul 2017 22:42:20 -0000",Goiânia,Transporte,Prefeito de Goiânia interdita Parque Mutirama após acidente com brinquedo que deixou crianças feridas,Crítico,280
+G1 Goiás,"Sat, 22 Jul 2017 23:48:36 -0000",Goiânia,Transporte,"Menina morre e irmão fica ferido após acidente na GO-164, em Faina",Crítico,280
+G1 Goiás,"Mon, 17 Jul 2017 11:36:59 -0300",Goiânia,Geral / Outros,Projeto Piloto Consciente recebe edição do Daqui é Show,Neutro,130
+G1 Goiás,"Fri, 14 Jul 2017 11:30:17 -0300",Goiânia,Transporte,Conheça o percurso do Piloto Consciente – 1º Passeio Motociclístico de Goiás,Neutro,130
+G1 Goiás,"Fri, 14 Jul 2017 11:24:47 -0300",Goiânia,Transporte,TV Anhanguera e Detran Goiás realizam o primeiro passeio de motociclístico de Goiás,Neutro,130
+G1 Goiás,"Mon, 10 Jul 2017 19:11:04 -0300",Goiânia,Transporte,"Motociclista, confira abaixo algumas dicas de segurança no trânsito",Positivo,90
+G1 Goiás,"Mon, 10 Jul 2017 19:09:04 -0300",Goiânia,Transporte,Você sabia que uma simples doação de sangue pode salvar até 4 vidas?,Crítico,280
+G1 Goiás,"Mon, 10 Jul 2017 19:04:39 -0300",Goiânia,Transporte,DETRAN Goiás realiza 1ª edição do projeto Piloto Consciente,Crítico,280
+G1 Goiás,"Mon, 10 Jul 2017 18:59:14 -0300",Goiânia,Transporte,Conheça o perfil do motociclista goiano,Neutro,130
+G1 Goiás,"Mon, 10 Jul 2017 18:54:48 -0300",Goiânia,Transporte,Detran – GO marca presença em escola públicas e privadas de Goiás.,Crítico,280
+G1 Goiás,"Tue, 27 Jun 2017 09:48:43 -0000",Anápolis,Transporte,Polícia prende grupo suspeito de roubar carros no DF para revender em GO,Crítico,280
+G1 Goiás,"Mon, 26 Jun 2017 11:48:00 -0000",Anápolis,Segurança,ANTT quer cassar concessão de trecho da BR-153 entre Goiás e Tocantins,Neutro,130
+G1 Goiás,"Sun, 11 Jun 2017 23:30:45 -0000",Goiânia,Transporte,"Mais de 24 mil crianças e adolescentes trabalham em Goiás, diz IBGE",Neutro,130
+G1 Goiás,"Fri, 02 Jun 2017 08:40:09 -0000",Aparecida de Goiânia,Política,Confira roteiro de festas juninas em Goiânia e cidades do interior de Goiás,Positivo,240
+G1 Goiás,"Wed, 24 May 2017 11:06:57 -0000",Goiânia,Geral / Outros,Cerimonialista faz pedido surpresa de casamento e celebra união na Casa Cor,Neutro,130
+G1 Goiás,"Sat, 20 May 2017 21:53:38 -0000",Goiânia,Transporte,"Oito ônibus são apedrejados enquanto passavam pela BR-040, em Luziânia",Crítico,280
+G1 Goiás,"Sun, 14 May 2017 21:25:24 -0000",Aparecida de Goiânia,Saúde,Mãe de atendente relata dor após morte da filha em tiroteio: 'Minha vida acabou',Crítico,280
+G1 Goiás,"Wed, 10 May 2017 15:57:43 -0300",Goiânia,Transporte,Detran Goiás promove Caminhada pela paz em parceria com a TV Anhanguera,Crítico,280
+G1 Goiás,"Tue, 09 May 2017 18:09:11 -0000",Aparecida de Goiânia,Transporte,Mãe pede ajuda para encontrar filho que sumiu há 10 anos,Neutro,130
+G1 Goiás,"Wed, 26 Apr 2017 13:02:50 -0000",Goiânia,Transporte,Polícia faz operação para desarticular quadrilha de estelionatários de veículos,Crítico,280
+G1 Goiás,"Tue, 25 Apr 2017 14:10:10 -0000",Goiânia,Segurança,Homem vai a júri por morte de vigilante de supermercado em Goiânia,Crítico,280
+G1 Goiás,"Thu, 06 Apr 2017 22:22:49 -0000",Goiânia,Política,STJ arquiva 3 processos contra Marconi após escutas de Demóstenes serem anuladas,Crítico,430
+G1 Goiás,"Tue, 04 Apr 2017 12:00:12 -0300",Goiânia,Segurança,Transferência de perus para fábrica da BRF em Uberlândia é autorizada,Neutro,130
+G1 Goiás,"Mon, 03 Apr 2017 08:13:07 -0300",Goiânia,Saúde,Visitas ao Zoo de Goiânia caem após morte de macaco com febre amarela,Crítico,280
+G1 Goiás,"Mon, 03 Apr 2017 07:26:19 -0300",Goiânia,Educação,"Tecnoshow 2017 começa nesta segunda-feira em Rio Verde, GO",Neutro,130
+G1 Goiás,"Mon, 03 Apr 2017 07:01:07 -0300",Goiânia,Educação,Contemplados para moradias devem apresentar documentos à Agehab,Neutro,130
+G1 Goiás,"Mon, 03 Apr 2017 06:53:15 -0300",Aparecida de Goiânia,Transporte,"Jovem que morreu após carro bater contra árvore não usava cinto, diz Dict",Crítico,280
+G1 Goiás,"Mon, 03 Apr 2017 06:42:51 -0300",Goiânia,Saúde,Especialistas explicam como evitar e tratar mofo nas paredes e móveis,Crítico,280
+G1 Goiás,"Mon, 03 Apr 2017 06:12:37 -0300",Aparecida de Goiânia,Saúde,Exames de DNA confirmam troca de bebês em maternidade há 32 anos,Neutro,130
+G1 Goiás,"Sun, 02 Apr 2017 21:52:33 -0300",Goiânia,Segurança,PM prende traficante durante festa de som automotivo regada a drogas,Crítico,280
+G1 Goiás,"Sun, 02 Apr 2017 21:07:00 -0300",Aparecida de Goiânia,Geral / Outros,Agente carcerário é flagrado com 40 celulares quando chegava na CPP,Neutro,130
+G1 Goiás,"Sun, 02 Apr 2017 20:33:39 -0300",Goiânia,Geral / Outros,"Bombeiros procuram por pessoa que se afogou em lago de Nerópolis, GO",Neutro,130
+G1 Goiás,"Sun, 02 Apr 2017 18:46:01 -0300",Goiânia,Transporte,"Avião que caiu em aeroporto e matou dois estava apto para voar, diz Anac",Crítico,280
+G1 Goiás,"Sun, 02 Apr 2017 16:32:51 -0300",Aparecida de Goiânia,Segurança,Detentos usam escada improvisada e fogem de presídio após pular muro,Neutro,130
+G1 Goiás,"Sun, 02 Apr 2017 14:47:09 -0300",Anápolis,Transporte,Corpo de carpinteiro que morreu em hospital dos EUA é enterrado em GO,Crítico,280
+G1 Goiás,"Sun, 02 Apr 2017 12:26:37 -0300",Goiânia,Saúde,"Pesquisador integra produção de soja com pecuária em Rio Verde, GO",Neutro,130
+G1 Goiás,"Sun, 02 Apr 2017 10:50:59 -0300",Goiânia,Transporte,"Avião cai e mata duas pessoas na pista do aeroporto de Aragarças, GO",Crítico,280
+G1 Goiás,"Sun, 02 Apr 2017 09:51:37 -0300",Goiânia,Educação,"Operários concluem ensino básico após aulas dentro da obra, em Goiás",Neutro,130
+G1 Goiás,"Sun, 02 Apr 2017 08:09:29 -0300",Aparecida de Goiânia,Transporte,Passageira morre após carro sair da pista e bater contra árvore na BR-153,Crítico,280
+G1 Goiás,"Sun, 02 Apr 2017 08:00:02 -0300",Goiânia,Geral / Outros,"Cozinheira ensina como fazer receita de biscoito de nata, em Goiás",Neutro,130
+G1 Goiás,"Sun, 02 Apr 2017 07:38:11 -0300",Goiânia,Saúde,"Feira oferece dinâmicas de pecuária e expõe cerca de 1 mil animais, em GO",Neutro,130
+G1 Goiás,"Sat, 01 Apr 2017 20:58:18 -0300",Goiânia,Saúde,"Presos têm suspeita de gripe H1N1 em cadeia de Luziânia, GO",Crítico,280
+G1 Goiás,"Sat, 01 Apr 2017 19:54:25 -0300",Anápolis,Política,"Alunos estudam em salas montadas sob tendas em Cristalina, GO",Crítico,430
+G1 Goiás,"Sat, 01 Apr 2017 17:16:04 -0300",Senador Canedo,Transporte,Patrulha ajuda moradores a instalar aparelhos para captura do sinal digital,Neutro,130
+G1 Goiás,"Sat, 01 Apr 2017 15:44:52 -0300",Goiânia,Segurança,Camaroneses são presos suspeitos de passar notas falsas em Goiânia,Positivo,90
+G1 GO - Trânsito,"Sat, 01 Apr 2017 11:37:27 -0300",Goiânia,Transporte,"Moradores reclamam que ponte está inacabada há 40 anos, em Davinópolis",Neutro,130
+G1 GO - Trânsito,"Sat, 01 Apr 2017 09:20:28 -0300",Aparecida de Goiânia,Transporte,PRF fecha acesso a BR-153 em trecho considerado 'mais crítico de Goiás',Crítico,280
+G1 GO - Trânsito,"Fri, 31 Mar 2017 21:40:33 -0300",Goiânia,Transporte,"Acidente entre carreta e caminhão mata dois e fere um na BR-153, em GO",Crítico,280
+G1 GO - Trânsito,"Fri, 31 Mar 2017 15:43:39 -0300",Goiânia,Transporte,Justiça ordena que SMT use dinheiro de multas em melhorias no trânsito,Neutro,130
+G1 GO - Trânsito,"Fri, 31 Mar 2017 12:37:22 -0300",Aparecida de Goiânia,Transporte,Detran-GO é notificado por buraco em calçada que causou morte de jovem,Crítico,280
+G1 GO - Trânsito,"Tue, 28 Mar 2017 06:33:15 -0300",Goiânia,Transporte,"Van de transporte escolar pega fogo, e crianças saem ilesas; veja vídeo",Crítico,280
+G1 GO - Trânsito,"Mon, 27 Mar 2017 16:57:25 -0300",Goiânia,Transporte,"Motociclista morre após bater contra carro em cruzamento, em Goiânia",Crítico,280
+G1 GO - Trânsito,"Mon, 27 Mar 2017 15:23:41 -0300",Goiânia,Transporte,"Mulher é achada morta após ser atropelada na GO-080, diz Dict",Crítico,280
+G1 GO - Trânsito,"Mon, 27 Mar 2017 10:40:27 -0300",Aparecida de Goiânia,Transporte,Motorista bêbado é preso após perseguição na BR-153; veja vídeo,Crítico,280
+G1 GO - Trânsito,"Mon, 27 Mar 2017 08:51:34 -0300",Goiânia,Transporte,"Vídeo mostra acidente entre moto e caminhonete na BR-158, em Jataí",Crítico,280
+G1 GO - Trânsito,"Sat, 25 Mar 2017 18:52:57 -0300",Goiânia,Transporte,"Acidente entre motos provoca a morte de jovem e deixa dois feridos, em GO",Crítico,280
+G1 GO - Trânsito,"Sat, 25 Mar 2017 09:57:05 -0300",Goiânia,Transporte,Acidente com carro roubado mata uma pessoa e fere cinco em Luziânia,Crítico,280
+G1 GO - Trânsito,"Fri, 24 Mar 2017 14:21:52 -0300",Goiânia,Transporte,"Motociclista morre após ser atingido por caminhão, em Goiânia; veja vídeo",Crítico,280
+G1 GO - Trânsito,"Fri, 24 Mar 2017 13:21:22 -0300",Goiânia,Transporte,Caminhoneiro bêbado é preso em veículo com carga de ácido sulfúrico,Crítico,280
+G1 GO - Trânsito,"Fri, 24 Mar 2017 08:39:11 -0300",Goiânia,Política,Prefeitura de Cristalina reabre estrada para que população 'fuja' de pedágio,Crítico,430
+G1 GO - Trânsito,"Thu, 23 Mar 2017 18:49:02 -0300",Goiânia,Transporte,"Personal trainer morre após acidente de motocicleta na BR-153, em Goiânia",Crítico,280
+G1 GO - Trânsito,"Thu, 23 Mar 2017 17:09:03 -0300",Goiânia,Transporte,Presos suspeitos de saquear carga de cerveja após acidente com 2 mortos,Crítico,280
+G1 GO - Trânsito,"Thu, 23 Mar 2017 09:05:01 -0300",Goiânia,Transporte,Casal de idosos morre e 28 pessoas ficam feridas em acidente na BR-153,Crítico,280
+G1 GO - Trânsito,"Wed, 22 Mar 2017 15:08:02 -0300",Goiânia,Transporte,"Mulher morre após ser atropelada por motociclista, que fugiu do local",Crítico,280
+G1 GO - Trânsito,"Wed, 22 Mar 2017 07:00:52 -0300",Goiânia,Transporte,Carreta danifica passarela e pedestres se arriscam para atravessar a BR-060,Crítico,280
+G1 GO - Trânsito,"Tue, 21 Mar 2017 10:07:12 -0300",Goiânia,Transporte,Vídeo mostra acidente entre moto e caminhonete que matou piloto em GO,Crítico,280
+G1 GO - Trânsito,"Mon, 20 Mar 2017 08:19:07 -0300",Aparecida de Goiânia,Transporte,Pedreiro diz que bebeu antes de bater  em moto e matar mulher: '5 cervejas',Crítico,280
+G1 GO - Trânsito,"Sun, 19 Mar 2017 19:37:20 -0300",Aparecida de Goiânia,Transporte,Jovem inabilitado cai de moto e morre  ao ser atropelado por carreta em GO,Crítico,280
+G1 GO - Trânsito,"Sun, 19 Mar 2017 10:04:40 -0300",Goiânia,Transporte,"Homem morre ao ser atropelado na Avenida Independência, em Goiânia",Crítico,280
+G1 GO - Trânsito,"Sun, 19 Mar 2017 08:22:39 -0300",Goiânia,Transporte,"Motorista bêbado é preso após bater em moto e matar pedestre, diz Dict",Crítico,280
+G1 GO - Trânsito,"Sat, 18 Mar 2017 17:48:55 -0300",Goiânia,Transporte,"Motociclista morre após acidente com caminhonete, em Goiânia",Crítico,280
+G1 GO - Trânsito,"Thu, 16 Mar 2017 08:07:13 -0300",Goiânia,Transporte,"Acidente entre moto e caminhonete provoca a morte de garupa, em Goiás",Crítico,280
+G1 GO - Trânsito,"Wed, 15 Mar 2017 05:57:10 -0300",Goiânia,Transporte,Mãe e filho morrem após caminhão sair da pista e capotar na BR-414,Crítico,280
+G1 GO - Trânsito,"Sun, 12 Mar 2017 10:19:20 -0300",Goiânia,Transporte,Motorista fica ferido ao perder controle e sair da pista na GO-164,Crítico,280
+G1 GO - Trânsito,"Sat, 11 Mar 2017 15:30:20 -0300",Aparecida de Goiânia,Transporte,PRF apreende carro com 60 multas e 3 crianças sem cadeirinhas na BR-060,Crítico,280
+G1 GO - Trânsito,"Sat, 11 Mar 2017 08:27:36 -0300",Goiânia,Transporte,"Adolescente é flagrado dirigindo carro na BR-060, em Águas Lindas de Goiás",Crítico,280
+G1 GO - Trânsito,"Fri, 10 Mar 2017 17:30:17 -0300",Goiânia,Transporte,Motorista de carro morre após acidente com caminhão na BR-452,Crítico,280
+G1 GO - Trânsito,"Tue, 07 Mar 2017 17:04:04 -0300",Anápolis,Transporte,"Caminhão tomba sobre carro e deixa três feridos, na BR-060, em Anápolis",Crítico,280
+G1 GO - Trânsito,"Tue, 07 Mar 2017 09:47:38 -0300",Goiânia,Transporte,Motorista é flagrado levando pilha de pneus quase da altura de Kombi; veja,Crítico,280
+G1 GO - Trânsito,"Tue, 07 Mar 2017 08:42:34 -0300",Goiânia,Transporte,Quatro pessoas morrem após carro bater contra caminhão na BR-040,Crítico,280
+G1 GO - Trânsito,"Sat, 04 Mar 2017 19:56:25 -0300",Goiânia,Transporte,"Dois ficam feridos em colisão entre carro e trem em Ipameri, GO",Crítico,280
+G1 GO - Trânsito,"Fri, 03 Mar 2017 13:06:56 -0300",Aparecida de Goiânia,Transporte,"Após acidente, idoso é preso por dirigir embriagado e armado em GO",Crítico,280
+G1 GO - Trânsito,"Fri, 03 Mar 2017 07:26:50 -0300",Goiânia,Transporte,Motorista de Fusca arrasta árvore maior do que o carro em Catalão; veja,Crítico,280
+G1 GO - Trânsito,"Thu, 02 Mar 2017 22:58:57 -0300",Goiânia,Transporte,"SMT negocia dívida, e empresa volta a sincronizar semáforos em Goiânia",Crítico,280
+G1 GO - Trânsito,"Thu, 02 Mar 2017 12:14:40 -0300",Aparecida de Goiânia,Transporte,PRF flagra mais de 100 motoristas bêbados durante o carnaval em Goiás,Crítico,280
+G1 GO - Trânsito,"Wed, 01 Mar 2017 13:43:40 -0300",Goiânia,Transporte,Homem sem CNH leva criança sem cadeirinha em picape na BR-060; veja,Neutro,130
+G1 GO - Trânsito,"Wed, 01 Mar 2017 12:34:45 -0300",Goiânia,Transporte,"Acidente causa a morte de mulher e deixa três feridos na BR-414, em GO",Crítico,280
+G1 GO - Trânsito,"Wed, 01 Mar 2017 11:59:01 -0300",Goiânia,Transporte,Número de mortes no carnaval triplica nas rodovias estaduais de Goiás,Crítico,280
+G1 GO - Trânsito,"Wed, 01 Mar 2017 08:37:11 -0300",Goiânia,Transporte,Carro de suspeitos em fuga fica 'em pé' após bater em muro em Goiânia,Crítico,280
+G1 GO - Trânsito,"Tue, 28 Feb 2017 14:58:42 -0300",Goiânia,Transporte,"Homem morre após ser atingido por carro que saia da garagem, diz Dict",Crítico,280
+G1 GO - Trânsito,"Tue, 28 Feb 2017 11:52:46 -0300",Goiânia,Transporte,Duas mulheres ficam feridas após carro cair em ribanceira na GO-476,Crítico,280
+G1 GO - Trânsito,"Mon, 27 Feb 2017 16:56:54 -0300",Anápolis,Transporte,"Ônibus bate em mureta na BR-060 e passageiros ficam feridos, em Goiás",Crítico,280
+G1 GO - Trânsito,"Mon, 27 Feb 2017 11:24:05 -0300",Aparecida de Goiânia,Transporte,"PRF flagra veículo a 194 km/h na BR-060, entre Rio Verde e Jataí",Crítico,280
+G1 GO - Trânsito,"Mon, 27 Feb 2017 11:05:43 -0300",Anápolis,Transporte,Jovem embriagado e sem CNH é preso após bater em carro na BR-060,Crítico,280
+G1 GO - Trânsito,"Sun, 26 Feb 2017 09:11:30 -0300",Goiânia,Transporte,"Jovem morre após carro bater contra poste no Setor Faiçalville, em Goiânia",Crítico,280
+G1 GO - Trânsito,"Sat, 25 Feb 2017 22:05:22 -0300",Goiânia,Transporte,"Carro de luxo é flagrado trafegando a 178 km/h na BR-050 em Catalão, GO",Crítico,280
+G1 GO - Trânsito,"Sat, 25 Feb 2017 19:05:13 -0300",Goiânia,Transporte,"Acidente com três veículos deixa sete feridos na BR-050 em Catalão, GO",Crítico,280
+G1 GO - Trânsito,"Sat, 25 Feb 2017 17:40:36 -0300",Aparecida de Goiânia,Transporte,"Idoso é flagrado dirigindo ambulância embriagado na BR-153, em Goiás",Crítico,280
+G1 GO - Trânsito,"Sat, 25 Feb 2017 11:41:15 -0300",Goiânia,Transporte,"Acidente mata cinco na BR-452 após ultrapassagem malsucedida, diz PRF",Crítico,280
+G1 GO - Trânsito,"Sat, 25 Feb 2017 10:49:25 -0300",Goiânia,Transporte,Dois acidentes deixam 4 mortos e 5 feridos no mesmo trecho da GO-070,Crítico,280
+G1 GO - Trânsito,"Sat, 25 Feb 2017 08:22:11 -0300",Goiânia,Transporte,Corpos de 9 vítimas de acidente na BR-020 seguem no IML de Formosa,Crítico,280
+G1 GO - Trânsito,"Fri, 24 Feb 2017 19:51:04 -0300",Goiânia,Transporte,"Acidente entre dois carros deixa nove pessoas mortas na BR-020, em Goiás",Crítico,280
+G1 GO - Trânsito,"Fri, 24 Feb 2017 14:46:19 -0300",Goiânia,Transporte,"Dívida milionária deixa semáforos de Goiânia sem sincronização, diz SMT",Crítico,280
+G1 GO - Trânsito,"Fri, 24 Feb 2017 07:48:52 -0300",Goiânia,Transporte,"Motorista morre após caminhão cair de ponte na BR-364, em Jataí",Crítico,280
+G1 GO - Trânsito,"Thu, 23 Feb 2017 18:58:13 -0300",Goiânia,Transporte,"Incêndio deixa ônibus destruído e interdita trecho da BR-060, em Goiás",Crítico,280
+G1 GO - Trânsito,"Wed, 22 Feb 2017 09:29:49 -0300",Goiânia,Transporte,"SMT altera sentido de ruas no Setor Marista, em Goiânia; veja mudanças",Neutro,130
+G1 GO - Trânsito,"Wed, 22 Feb 2017 06:21:31 -0300",Aparecida de Goiânia,Transporte,"Projetos de lei para regulamentar Uber seguem sem aprovação, em Goiás",Positivo,90
+G1 GO - Trânsito,"Mon, 20 Feb 2017 21:30:51 -0300",Goiânia,Transporte,"Acidente mata bebê e deixa os pais feridos na BR-060 em Guapó, GO",Crítico,280
+G1 GO - Trânsito,"Mon, 20 Feb 2017 15:31:50 -0300",Anápolis,Transporte,Dentista bêbado é detido após se envolver em acidente e fugir; vídeo,Crítico,280
+G1 GO - Trânsito,"Sun, 19 Feb 2017 16:23:16 -0300",Goiânia,Transporte,"Carro cai em córrego após acidente na Marginal Botafogo, em Goiânia",Crítico,280
+G1 GO - Trânsito,"Sun, 19 Feb 2017 11:07:30 -0300",Goiânia,Transporte,"Carro capota em acidente na Avenida República do Líbano, em Goiânia",Neutro,130
+G1 GO - Trânsito,"Fri, 17 Feb 2017 12:51:30 -0200",Goiânia,Transporte,"SMT vai alterar sentido de quatro ruas no Setor Marista, em Goiânia",Crítico,280
+G1 GO - Trânsito,"Thu, 16 Feb 2017 16:33:39 -0200",Goiânia,Transporte,"Motoristas reclamam de inúmeros buracos na GO-338, em Goiás",Crítico,280
+G1 GO - Trânsito,"Mon, 13 Feb 2017 09:38:38 -0200",Goiânia,Transporte,"Pais de criança que pilotava moto terão de se explicar para juiz, diz PRF",Crítico,280
+G1 GO - Trânsito,"Mon, 13 Feb 2017 08:45:43 -0200",Anápolis,Transporte,Três jovens morrem em acidente entre carro e caminhão na GO-244,Crítico,280
+G1 GO - Trânsito,"Mon, 13 Feb 2017 07:09:01 -0200",Anápolis,Transporte,Velocímetro de carro envolvido em acidente na BR-414 trava em 170 km/h,Crítico,280
+G1 GO - Trânsito,"Sun, 12 Feb 2017 18:02:33 -0200",Goiânia,Transporte,Criança é flagrada pilotando moto e levando mãe na garupa na BR-153,Neutro,130
+G1 GO - Trânsito,"Sun, 12 Feb 2017 08:20:29 -0200",Goiânia,Transporte,"Motociclista morre após colisão no Jardim Novo Mundo, em Goiânia",Crítico,280
+G1 GO - Trânsito,"Sat, 11 Feb 2017 19:35:18 -0200",Goiânia,Transporte,"Homem morre e 6 pessoas se ferem em acidente na BR-414, em Goiás",Crítico,280
+G1 GO - Trânsito,"Sat, 11 Feb 2017 18:06:14 -0200",Goiânia,Transporte,"Acidente mata dois e deixa sete feridos na BR-020, em Formosa, GO",Crítico,280
+G1 GO - Trânsito,"Fri, 10 Feb 2017 18:54:23 -0200",Goiânia,Transporte,"Mãe e filho morrem carbonizados após acidente na BR-452, em Goiás",Crítico,280
+G1 GO - Trânsito,"Fri, 10 Feb 2017 07:07:25 -0200",Goiânia,Transporte,Mortes em Inhumas por falta do uso do cinto motivam campanha na web,Crítico,280
+G1 GO - Trânsito,"Thu, 09 Feb 2017 16:06:45 -0200",Aparecida de Goiânia,Transporte,Erosão gigante interdita metade de avenida em Aparecida de Goiânia,Crítico,280
+G1 GO - Trânsito,"Thu, 09 Feb 2017 07:15:45 -0200",Aparecida de Goiânia,Transporte,Dono de lava a jato inabilitado é preso ao usar carro de cliente para dar 'rolé',Neutro,130
+G1 GO - Trânsito,"Tue, 07 Feb 2017 14:20:08 -0200",Aparecida de Goiânia,Transporte,Chuva alaga casas e gera transtornos ao trânsito na Grande Goiânia; vídeo,Crítico,280
+G1 GO - Trânsito,"Mon, 06 Feb 2017 08:49:01 -0200",Goiânia,Transporte,"Homem dorme ao volante, e mulher morre em acidente na BR-153, diz PRF",Crítico,280
+G1 GO - Trânsito,"Sun, 05 Feb 2017 12:48:31 -0200",Goiânia,Transporte,Ônibus tomba na BR-020 após motorista perder controle da direção,Crítico,280
+G1 GO - Trânsito,"Sat, 04 Feb 2017 10:04:01 -0200",Goiânia,Transporte,"Jovem morre em acidente de moto após sair de boate, diz polícia",Crítico,280
+G1 GO - Trânsito,"Fri, 03 Feb 2017 08:51:01 -0200",Goiânia,Transporte,Carro invade pista contrária e bate de frente contra moto na GO-020; vídeo,Neutro,130
+G1 GO - Trânsito,"Thu, 02 Feb 2017 21:32:47 -0200",Goiânia,Transporte,"Habilitação para ‘cinquentinhas’ deve ficar mais barata em Goiás, diz Detran",Neutro,130
+G1 GO - Trânsito,"Thu, 02 Feb 2017 11:46:16 -0200",Goiânia,Transporte,Jovem morre uma semana após sofrer acidente de moto em Goiânia,Crítico,280
+G1 GO - Trânsito,"Thu, 02 Feb 2017 10:25:30 -0200",Senador Canedo,Transporte,Motorista morre ao bater em ônibus parado em acostamento na GO-403,Crítico,280
+G1 GO - Trânsito,"Thu, 02 Feb 2017 09:25:22 -0200",Goiânia,Transporte,"Motorista morre após bater de frente com carreta na BR-452, em Goiatuba",Crítico,280
+G1 GO - Trânsito,"Wed, 01 Feb 2017 18:36:56 -0200",Goiânia,Transporte,Motociclista morre ao ser atingido por carro e girar várias vezes no ar; vídeo,Crítico,280
+G1 GO - Trânsito,"Tue, 31 Jan 2017 09:06:31 -0200",Goiânia,Transporte,Motociclista morre ao se envolver em acidente com carro em Goiânia,Crítico,280
+G1 GO - Trânsito,"Tue, 31 Jan 2017 07:42:44 -0200",Goiânia,Transporte,Polícia acha carro que se envolveu em acidente que matou entregador,Crítico,280
+G1 GO - Trânsito,"Mon, 30 Jan 2017 20:04:07 -0200",Goiânia,Transporte,Acidente entre moto e caminhonete deixa casal morto na GO-010,Crítico,280
+G1 GO - Trânsito,"Mon, 30 Jan 2017 19:10:47 -0200",Goiânia,Transporte,"Acidente mata duas pessoas e deixa outras três feridas na BR-414, em GO",Crítico,280
+G1 GO - Trânsito,"Mon, 30 Jan 2017 16:59:16 -0200",Goiânia,Transporte,Polícia apura se jovem que morreu em acidente participava de racha,Crítico,280
+G1 GO - Trânsito,"Mon, 30 Jan 2017 13:36:27 -0200",Goiânia,Transporte,Vídeo mostra acidente entre carro e moto que matou entregador em GO,Crítico,280
+Mais Goiás,"Sun, 27 Sep 2026 21:02:56 +0000",Goiânia,Geral / Outros,Grupo que patrocina o Vila Nova oferece R$ 120 milhões ao Corinthians,Neutro,130
+Mais Goiás,"Sun, 27 Sep 2026 20:42:25 +0000",Goiânia,Saúde,Criança é socorrida por bombeiros a caminho da UPA após se afogar em piscina em Caldas Novas,Neutro,130
+Mais Goiás,"Sun, 27 Sep 2026 20:25:45 +0000",Goiânia,Geral / Outros,"Prefeitura de Goiânia terá de depositar R$ 55,4 milhões para assumir posse do Jóquei Clube; entenda decisão",Neutro,130
+Mais Goiás,"Sun, 27 Sep 2026 20:05:18 +0000",Goiânia,Geral / Outros,Preço de frutas e verduras sobe até 100% em Goiás,Neutro,130
+Mais Goiás,"Sun, 27 Sep 2026 19:53:35 +0000",Goiânia,Política,"‘Vamos ampliar o maior ciclo de obras da história de Goiás’, diz Daniel",Positivo,240
+Mais Goiás,"Sun, 27 Sep 2026 19:44:43 +0000",Goiânia,Educação,Copa do Brasil define datas das semifinais; veja os jogos,Neutro,130
+Mais Goiás,"Sun, 27 Sep 2026 19:41:49 +0000",Goiânia,Transporte,Homem bebe e furta ônibus da Prefeitura de Caldas Novas para buscar amigos usuários de drogas,Neutro,130
+Mais Goiás,"Sun, 27 Sep 2026 19:38:00 +0000",Goiânia,Geral / Outros,"O que é o Muse, agente de IA da Meta que chegou ao 1º lugar na App Store dos EUA",Neutro,130
+Mais Goiás,"Sun, 27 Sep 2026 19:33:46 +0000",Goiânia,Política,Vanderlan defende elevar teto anual do MEI para R$ 200 mil: ‘Empreendedor não pode ser punido por crescer’,Neutro,280
+Mais Goiás,"Sun, 27 Sep 2026 18:52:22 +0000",Goiânia,Segurança,Polícia britânica prende 5 suspeitos de preparar atentado perto de base usada pelos EUA,Neutro,130
